@@ -273,10 +273,7 @@
 #footer{
     text-align: center;
     color: var(--secundary);
-    height: 250px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    
 }
 
 #footer h3{
